@@ -47,11 +47,6 @@ namespace WindowsFormsApplication3
             label3.Text = "1, 3, 5, 7, 9, 11, 13, 15";
             btnYok1.Visible = true;
             btnVar1.Visible = true;
-
-           // label4.Text = "Tuttuğun Sayı Burada Var Mı? ";
-           // label5.Text = "1, 3, 5, 7, 9, 11, 13, 15";
-
-           
     
         }
 
